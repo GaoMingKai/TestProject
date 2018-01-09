@@ -1,0 +1,1 @@
+[2017-11-03 18:06:30]---错误信息发送数据{"t_time": "", "pageSize": 5000, "currentPage": 1, "projectId": 176, "searchOrder": [["_id", -1]], "searchText": "", "pointType": 1} 读取http://114.55.250.52:9001/point_tool/getCloudPointTable/接口出错HTTPConnectionPool(host='114.55.250.52', port=9001): Read timed out. (read timeout=10)!

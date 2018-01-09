@@ -1,0 +1,15 @@
+Certificate did not match expected hostname: 121.41.28.69. Certificate: {'subjectAltName': (('DNS', 'expertcontainer.beopsmart.com'),), 'notAfter': 'Mar 16 23:59:59 2018 GMT', 'OCSP': ('http://trustasia2-ocsp.digitalcertvalidation.com',), 'version': 3, 'serialNumber': '2CABC0594B027C55A289EF991AA1F16B', 'issuer': ((('countryName', 'CN'),), (('organizationName', 'TrustAsia Technologies, Inc.'),), (('organizationalUnitName', 'Symantec Trust Network'),), (('organizationalUnitName', 'Domain Validated SSL'),), (('commonName', 'TrustAsia DV SSL CA - G5'),)), 'subject': ((('commonName', 'expertcontainer.beopsmart.com'),),), 'caIssuers': ('http://trustasia2-aia.digitalcertvalidation.com/trustasiag5.crt',), 'notBefore': 'Mar 16 00:00:00 2017 GMT'}
+func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'
+func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'
+func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'
+func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'
+func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'
+func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'
+func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'

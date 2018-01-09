@@ -1,0 +1,1 @@
+[2017-11-03 18:08:21]---错误信息本次post请求发送数据{"ewfwe": null} 读取http://121.41.30.108/site/v1.0/getDTUProjectByServerCode接口返回状态码不为200!status_code:502,错误内容: "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.10.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"

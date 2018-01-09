@@ -1,0 +1,2 @@
+[2017-12-27 09:40:14] --- levelname:ERROR filename: BeopTools.py funcName:getMysqlConn outputNumber: [41]  thread: Thread-6 output msg: func name: getMysqlConn error (2003, "Can't connect to MySQL server on 'qtc.smartbeop.com' ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)")
+[2017-12-27 09:40:23] --- levelname:ERROR filename: BeopTools.py funcName:getCaseInfo outputNumber: [52]  thread: Thread-6 output msg: func name: getCaseLastRunTime error 'NoneType' object has no attribute 'cursor'

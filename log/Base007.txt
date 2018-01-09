@@ -1,0 +1,18 @@
+[2017-09-04 17:52:25]---dumpList: 
+[2017-09-04 17:58:04]---dumpList: 
+[2017-09-19 15:06:56]---dumpList: 
+[2017-09-19 18:17:07]---dumpList: 
+[2017-10-16 17:23:27]---dumpList: 
+[2017-10-19 19:03:29]---dumpList: 
+[2017-10-19 19:05:52]---dumpList: 
+[2017-10-19 19:08:32]---dumpList: 
+[2017-10-20 14:00:13]---dumpList: 
+[2017-10-20 15:23:07]---dumpList: 
+[2017-10-26 16:08:06]---dumpList: 
+[2017-10-26 16:12:12]---dumpList: 
+[2017-10-26 16:18:16]---dumpList: 
+Certificate did not match expected hostname: 121.41.28.69. Certificate: {'version': 3, 'serialNumber': '2CABC0594B027C55A289EF991AA1F16B', 'notBefore': 'Mar 16 00:00:00 2017 GMT', 'subjectAltName': (('DNS', 'expertcontainer.beopsmart.com'),), 'caIssuers': ('http://trustasia2-aia.digitalcertvalidation.com/trustasiag5.crt',), 'subject': ((('commonName', 'expertcontainer.beopsmart.com'),),), 'OCSP': ('http://trustasia2-ocsp.digitalcertvalidation.com',), 'notAfter': 'Mar 16 23:59:59 2018 GMT', 'issuer': ((('countryName', 'CN'),), (('organizationName', 'TrustAsia Technologies, Inc.'),), (('organizationalUnitName', 'Symantec Trust Network'),), (('organizationalUnitName', 'Domain Validated SSL'),), (('commonName', 'TrustAsia DV SSL CA - G5'),))}
+[2017-11-13 16:36:43]---dumpList: 
+[2017-12-14 09:56:19]---[WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+[2017-12-14 09:56:19]---[2017-12-14 09:56:19]---Base007 52.168.30.86:27017 mongo数据库socket无响应，可能已宕机，请检查!
+[2017-12-14 09:56:19]---dumpList: 52.168.30.86:27017

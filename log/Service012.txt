@@ -1,0 +1,6 @@
+[2017-11-03 18:08:08]---错误信息发送数据{"serverCode": -1} 读取http://121.41.30.108/site/v1.0/getDTUProjectByServerCode接口出错HTTPConnectionPool(host='121.41.30.108', port=80): Max retries exceeded with url: /site/v1.0/getDTUProjectByServerCode (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000D554860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))!
+[2017-11-03 18:08:08]---'NoneType' object has no attribute 'get'
+[2017-11-03 18:08:12]---错误信息本次post请求发送数据{"serverCode": 2342} 读取http://121.41.30.108/site/v1.0/getDTUProjectByServerCode接口返回状态码不为200!status_code:502,错误内容: "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.10.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"
+[2017-11-03 18:08:12]---'NoneType' object has no attribute 'get'
+[2017-11-03 18:08:17]---错误信息本次post请求发送数据{"serverCode": "23"} 读取http://121.41.30.108/site/v1.0/getDTUProjectByServerCode接口返回状态码不为200!status_code:502,错误内容: "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.10.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"
+[2017-11-03 18:08:17]---'NoneType' object has no attribute 'get'

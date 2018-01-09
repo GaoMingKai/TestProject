@@ -1,0 +1,12 @@
+[2017-12-28 16:11:47]---错误信息本次发送get请求http://beop.rnbtech.com.hk/project/status/72接口返回状态不为200!
+[2017-12-28 16:11:47]---错误信息本次发送get请求http://beop.rnbtech.com.hk/project/status/201接口返回状态不为200!
+[2017-12-28 16:20:37]---请求接口http://beop.rnbtech.com.hk/project/status/返回状态码不为200！
+[2017-12-28 16:20:38]---请求接口http://beop.rnbtech.com.hk/project/status/返回状态码不为200！
+[2017-12-28 16:22:33]---postData() got an unexpected keyword argument 'timeout'
+[2017-12-28 16:22:33]---postData() got an unexpected keyword argument 'timeout'
+[2017-12-28 16:22:56]---错误信息本次发送post请求读取http://beop.rnbtech.com.hk/project/status/72接口参数:{"projectId": "72"}返回状态码不为200为404!
+[2017-12-28 16:22:56]---错误信息本次发送post请求读取http://beop.rnbtech.com.hk/project/status/201接口参数:{"projectId": "201"}返回状态码不为200为404!
+[2017-12-28 16:23:12]---错误信息本次发送post请求读取http://beop.rnbtech.com.hk/project/status/接口参数:{"projectId": "72"}返回状态码不为200为404!
+[2017-12-28 16:23:12]---错误信息本次发送post请求读取http://beop.rnbtech.com.hk/project/status/接口参数:{"projectId": "201"}返回状态码不为200为404!
+[2017-12-28 16:24:46]---错误信息本次发送post请求读取http://beop.rnbtech.com.hk/project/status/接口参数:{"projectId": "72"}返回状态码不为200为404!
+[2017-12-28 16:24:46]---错误信息本次发送post请求读取http://beop.rnbtech.com.hk/project/status/接口参数:{"projectId": "201"}返回状态码不为200为404!

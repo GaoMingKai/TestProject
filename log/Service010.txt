@@ -1,0 +1,1 @@
+[2017-11-03 18:08:05]---HTTPConnectionPool(host='121.41.30.108', port=80): Max retries exceeded with url: /get_realtimedata (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000D2CBBE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
